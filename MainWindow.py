@@ -27,18 +27,18 @@ class MainWindow(QMainWindow):
 
         self.setStatusBar(status_bar)
 
-        # Requirement 2.1
+        # Aufgabe 2.1
 
     @pyqtSlot()
     def open_file(self):
-        # Requirement 2.2
+        # Aufgabe 2.2
         pass
 
-        # Requirement 2.3
+        # Aufgabe 2.3
 
-        # Requirement 2.4
+        # Aufgabe 2.4
 
-        # Requirement 2.5
+        # Aufgabe 2.5
 
             # length = len(lines) - 1
             #

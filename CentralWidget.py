@@ -11,7 +11,7 @@ class CentralWidget(QChartView):
         self.__value_low = QSplineSeries()
         self.__value_end = QSplineSeries()
 
-        # Requirement 2.6
+        # Aufgabe 2.6
 
     @pyqtSlot(str)
     def append_values(self, line):
